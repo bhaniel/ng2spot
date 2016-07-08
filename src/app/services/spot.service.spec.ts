@@ -1,5 +1,5 @@
 /* tslint:disable:no-unused-variable */
-
+/*
 import {
   beforeEach, beforeEachProviders,
   describe, xdescribe,
@@ -16,3 +16,4 @@ describe('Spot Service', () => {
     expect(service).toBeTruthy();
   }));
 });
+*/

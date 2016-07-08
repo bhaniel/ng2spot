@@ -1,5 +1,5 @@
 /* tslint:disable:no-unused-variable */
-
+/*
 import {
   beforeEach, beforeEachProviders,
   describe, xdescribe,
@@ -21,3 +21,4 @@ describe('App: Ng2spot', () => {
     expect(app.title).toEqual('app works!');
   }));
 });
+*/

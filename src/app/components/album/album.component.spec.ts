@@ -1,5 +1,5 @@
 /* tslint:disable:no-unused-variable */
-
+/*
 import { By }           from '@angular/platform-browser';
 import { DebugElement } from '@angular/core';
 
@@ -18,3 +18,4 @@ describe('Component: Album', () => {
     expect(component).toBeTruthy();
   });
 });
+*/
